@@ -10,7 +10,7 @@ https://datameshlearning.com/intro-to-data-mesh/
 https://www.montecarlodata.com/blog-what-is-a-data-mesh-and-how-not-to-mesh-it-up/
 
 # Books
-Data Mesh in Action
+Data Mesh in Action - MEAP (Implementation Coverage)
 
 data-mesh-delivering-data-driven-value-at-scale
 
