@@ -9,6 +9,8 @@ https://datameshlearning.com/intro-to-data-mesh/
 
 https://www.montecarlodata.com/blog-what-is-a-data-mesh-and-how-not-to-mesh-it-up/
 
+https://wikibon.com/breaking-analysis-closing-the-technology-architectural-gaps-of-data-mesh/ -Breaking Analysis: Closing the Technology & Architectural Gaps of Data Mesh
+
 # Books
 Data Mesh in Action - MEAP (Implementation Coverage)
 
