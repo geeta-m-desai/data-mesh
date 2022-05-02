@@ -11,6 +11,8 @@ https://www.montecarlodata.com/blog-what-is-a-data-mesh-and-how-not-to-mesh-it-u
 
 https://wikibon.com/breaking-analysis-closing-the-technology-architectural-gaps-of-data-mesh/ -Breaking Analysis: Closing the Technology & Architectural Gaps of Data Mesh
 
+https://www.youtube.com/watch?v=tGbLOhN7Jao&t=37s&ab_channel=GoogleCloudEvents - Building Data Mesh with Google cloud Dataplex
+
 # Books
 Data Mesh in Action - MEAP (Implementation Coverage)
 
