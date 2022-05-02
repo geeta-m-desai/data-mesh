@@ -27,6 +27,9 @@ https://daappod.com/data-mesh-radio/intro-to-knowledge-graphs/
 
 # OpenSource frameworks 
 BackStage -https://backstage.io/ -Manage all your software, all in one place
+
 Git Pod -https://www.gitpod.io/ -Spin environemnt 
+
 DVC -https://dvc.org/ - Open-source Version Control System for Machine Learning Projects
+
 greatexpectations.io -Great Expectations is a shared, open standard for data quality
