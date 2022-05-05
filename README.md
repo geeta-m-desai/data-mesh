@@ -33,3 +33,8 @@ Git Pod -https://www.gitpod.io/ -Spin environemnt
 DVC -https://dvc.org/ - Open-source Version Control System for Machine Learning Projects
 
 greatexpectations.io -Great Expectations is a shared, open standard for data quality
+
+
+#Platforms helping build Data Mesh
+
+https://dataplane.app/  -- Dataplane is an Airflow inspired data platform with additional data mesh capability to automate, schedule and design data pipelines and workflows.
