@@ -13,6 +13,9 @@ https://wikibon.com/breaking-analysis-closing-the-technology-architectural-gaps-
 
 https://www.youtube.com/watch?v=tGbLOhN7Jao&t=37s&ab_channel=GoogleCloudEvents - Building Data Mesh with Google cloud Dataplex
 
+https://www.thoughtworks.com/about-us/events/webinars/core-principles-of-data-mesh/lessons-from-the-trenches-in-data-mesh#recording
+
+
 # Books
 Data Mesh in Action - MEAP (Implementation Coverage)
 
