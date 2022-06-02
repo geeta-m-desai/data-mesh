@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=tGbLOhN7Jao&t=37s&ab_channel=GoogleCloudEvents -
 
 https://www.thoughtworks.com/about-us/events/webinars/core-principles-of-data-mesh/lessons-from-the-trenches-in-data-mesh#recording
 
-https://towardsdatascience.com/data-mesh-pattern-enterprise-data-product-catalog-ba4bf072d7c3
+https://towardsdatascience.com/data-mesh-pattern-enterprise-data-product-catalog-ba4bf072d7c3 --- Enterprise data clatalogue without MDM
 
 # Books
 Data Mesh in Action - MEAP (Implementation Coverage)
